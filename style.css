@@ -1,0 +1,24 @@
+ul.circle{
+    list-style: circle;
+}
+ul.square{
+    list-style: square;
+}
+ul.disc{
+    list-style: disc;
+}
+ol.uno{
+    list-style: 1;
+}
+ol.AA{
+    list-style: upper-alpha;
+}
+ol.a{
+    list-style: lower-alpha;
+}
+ol.II{
+    list-style: upper-roman;
+}
+ol.i{
+    list-style: lower-roman;
+}
